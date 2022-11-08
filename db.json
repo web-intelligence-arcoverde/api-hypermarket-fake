@@ -248,20 +248,5 @@
       "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
       "price": 38
     }
-  ],
-
-  "categorias": [
-    {
-      "id": 41,
-      "img": "https://i.imgur.com/WAxO3sQ.png",
-      "visible": true,
-      "title": "Pizza"
-    },
-    {
-      "id": 42,
-      "img": "https://i.imgur.com/WAxO3sQ.png",
-      "visible": true,
-      "title": "Bebidas"
-    }
   ]
 }
