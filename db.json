@@ -199,16 +199,66 @@
       "price": 13
     }
   ],
+  "pizza": [
+    {
+      "id": 25,
+      "img": "https://i.imgur.com/WAxO3sQ.png",
+      "offer": true,
+      "title": "Pizza 01",
+      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
+      "price": 37
+    },
+    {
+      "id": 26,
+      "img": "https://i.imgur.com/WAxO3sQ.png",
+      "offer": true,
+      "title": "Pizza 02",
+      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
+      "price": 45
+    },
+    {
+      "id": 27,
+      "img": "https://i.imgur.com/WAxO3sQ.png",
+      "offer": true,
+      "title": "Pizza 03",
+      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
+      "price": 52
+    },
+    {
+      "id": 28,
+      "img": "https://i.imgur.com/WAxO3sQ.png",
+      "offer": false,
+      "title": "Pizza 04",
+      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
+      "price": 67
+    },
+    {
+      "id": 29,
+      "img": "https://i.imgur.com/WAxO3sQ.png",
+      "offer": false,
+      "title": "Pizza 05",
+      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
+      "price": 49
+    },
+    {
+      "id": 30,
+      "img": "https://i.imgur.com/WAxO3sQ.png",
+      "offer": false,
+      "title": "Pizza 06",
+      "description": "Pão, maionese, 2 carnes de 180g, alface, tomate, bacon e cebola roxa",
+      "price": 38
+    }
+  ],
 
   "categorias": [
     {
-      "id": 1,
+      "id": 41,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "visible": true,
       "title": "Pizza"
     },
     {
-      "id": 2,
+      "id": 42,
       "img": "https://i.imgur.com/WAxO3sQ.png",
       "visible": true,
       "title": "Bebidas"
